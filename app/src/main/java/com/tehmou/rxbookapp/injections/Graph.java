@@ -2,10 +2,8 @@ package com.tehmou.rxbookapp.injections;
 
 import com.tehmou.rxbookapp.activities.MainActivity;
 import com.tehmou.rxbookapp.data.DataStoreModule;
-import com.tehmou.rxbookapp.data.stores.StoreModule;
 import com.tehmou.rxbookapp.fragments.RepositoriesFragment;
 import com.tehmou.rxbookapp.fragments.RepositoryFragment;
-import com.tehmou.rxbookapp.network.NetworkModule;
 import com.tehmou.rxbookapp.network.NetworkService;
 import com.tehmou.rxbookapp.viewmodels.RepositoriesViewModel;
 import com.tehmou.rxbookapp.viewmodels.RepositoryViewModel;
